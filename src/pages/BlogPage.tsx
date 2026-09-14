@@ -94,6 +94,7 @@ export const BlogPage: React.FC<BlogPageProps> = ({
                   src={featuredPost.featuredImage}
                   alt={featuredPost.title}
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
+                  referrerPolicy="no-referrer"
                 />
               </div>
               <div className="lg:col-span-5 p-8 sm:p-10 flex flex-col justify-between space-y-6">

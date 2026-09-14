@@ -55,9 +55,10 @@ export const AboutPage: React.FC<AboutPageProps> = ({ onNavigate, onOpenBooking 
             <div className="lg:col-span-6 relative">
               <div className="rounded-3xl overflow-hidden shadow-2xl border-4 border-[#FFF7FA] aspect-[4/3]">
                 <img
-                  src="https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=1000&q=80"
+                  src="/color_salon_hair.jpg"
                   alt="Iqra Beauty Salon Story Lahore"
                   className="w-full h-full object-cover"
+                  referrerPolicy="no-referrer"
                 />
               </div>
               <div className="absolute -bottom-6 -left-6 bg-[#D94F83] text-white p-6 rounded-3xl shadow-xl hidden sm:block max-w-xs">

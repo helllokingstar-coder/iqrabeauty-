@@ -626,8 +626,7 @@ export const BLOG_POSTS: BlogPost[] = [
       'At Iqra Beauty Salon, we exclusively partner with world-renowned hair houses including L\'Oréal Professionnel, Kérastase Paris, and Olaplex. This ensures that even high-lift lightening and structural chemical transformations protect your hair bonds rather than causing split ends.',
       'What to expect on your first visit: a complimentary aromatic beverage, tailored product recommendations, a relaxing head massage during your clarifying shampoo, and heat styling with Dyson precision tools.',
     ],
-    featuredImage:
-      'https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=900&q=80',
+    featuredImage: '/color_salon_hair.jpg',
     tags: ['Hair Salon Lahore', 'Gulberg Beauty', 'Hair Trends', 'Luxury Salon'],
   },
   {
